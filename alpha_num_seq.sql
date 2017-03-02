@@ -1,4 +1,4 @@
-CREATE OR REPLACE FORCE VIEW chbs.alpha_numeric_seq 
+CREATE OR REPLACE FORCE VIEW alpha_numeric_seq 
 AS 
 SELECT d1 AS digit_1
 ,d2 AS digit_2
